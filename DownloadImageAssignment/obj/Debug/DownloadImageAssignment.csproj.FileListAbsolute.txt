@@ -1,0 +1,6 @@
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\bin\Debug\DownloadImageAssignment.exe.config
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\bin\Debug\DownloadImageAssignment.exe
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\bin\Debug\DownloadImageAssignment.pdb
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\obj\Debug\DownloadImageAssignment.csprojResolveAssemblyReference.cache
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\obj\Debug\DownloadImageAssignment.exe
+c:\users\viiye\documents\visual studio 2015\Projects\DownloadImageAssignment\DownloadImageAssignment\obj\Debug\DownloadImageAssignment.pdb

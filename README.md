@@ -13,6 +13,6 @@ Logic of splitting image consists of asking the user the number of subimages, th
 
 Part 2  - Combining Image
 
-For this purpose Graphics class was used. 
+For this purpose Graphics class was used. In the Program.cs file , the logic for combining images is put in a different private method. 
 Using Graphics.drawimage , whole image is drawn by individually drawing subimages, then image is stored in a new file , this getting back the original image. 
 
